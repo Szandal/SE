@@ -6,27 +6,29 @@ using System.Threading.Tasks;
 
 namespace SE
 {
-    class RulesStrategy
+    class KnowledgeAcquisitionModules
     {
 
-        public Rule GetRule()
+        private void AddRule()
         {
-
-            return null;
+            
         }
 
-        private Rule Strategia1()
+        private void RemoveRule()
         {
-            return null;
+
         }
 
-        private Rule Strategia2()
+        private void AddFact()
         {
-            return null;
+
+        }
+
+        private void RemoveFact()
+        {
+
         }
 
 
     }
-
-
 }
