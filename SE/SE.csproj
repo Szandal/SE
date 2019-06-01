@@ -55,8 +55,7 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Compile Include="ExplainModules.cs" />
-    <Compile Include="KnowledgeAcquisitionModules.cs" />
+    <Compile Include="InferenceModule.cs" />
     <Compile Include="KnowledgeBase.cs" />
     <Compile Include="Rule.cs" />
     <Compile Include="RulesStrategy.cs" />
